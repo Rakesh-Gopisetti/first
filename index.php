@@ -12,7 +12,7 @@ Password:
 </form></center><br/><br/>
 
 <center>
-<h1> Registaration </h1>
+<h1> Registaration Registarion today</h1>
 <form action="reg.php" method="POST" name="regform">
 UserName:
 <input type="text" name="username"><br/><br/>
